@@ -1,0 +1,10 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background-image:url(latar.png); 
+    background-attachment: fixed; 
+    background-size:cover; 
+}
+
